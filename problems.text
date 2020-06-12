@@ -1,5 +1,9 @@
-	NAME						PLATFORM			URL
-******************************************************************************************************************************
+	NAME					PLATFORM		URL
+**************************************************************************************************************
 
-BINSTIRL - Binary Stirling Numbers			SPOJ			https://www.spoj.com/problems/BINSTIRL/
-Point Reflection					----			https://en.wikipedia.org/wiki/Point_reflection
+BINSTIRL - Binary Stirling Numbers		SPOJ		https://www.spoj.com/problems/BINSTIRL/
+Point Reflection				----		https://en.wikipedia.org/wiki/Point_reflection
+INVCNT - Inversion Count			SPOJ		https://www.spoj.com/problems/INVCNT/
+PT07Y - Is it a tree				SPOJ		https://www.spoj.com/problems/PT07Y/
+PT07Z - Longest path in a tree			SPOJ		https://www.spoj.com/problems/PT07Z/
+
