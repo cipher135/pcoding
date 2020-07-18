@@ -1,15 +1,16 @@
 ** Only edit with gedit, or an editor with TabWidth = 8;
 D&C - Divide & Conquer, ST - Segment Tree, DP - Dynamic Programmings
+BS - Binary Search, BM- Basic Math
 
 
-	NAME					Tags				URL
+	NAME				Tags				URL
 *****************************************************************************************************
 
 BINSTIRL - Binary Stirling Numbers				https://www.spoj.com/problems/BINSTIRL/
 Point Reflection						https://en.wikipedia.org/wiki/Point_reflection
-INVCNT - Inversion Count			D&C, ST		https://www.spoj.com/problems/INVCNT/
-PT07Y - Is it a tree				DSDS, DFS	https://www.spoj.com/problems/PT07Y/
-PT07Z - Longest path in a tree			BFS		https://www.spoj.com/problems/PT07Z/	
+INVCNT - Inversion Count		D&C, ST			https://www.spoj.com/problems/INVCNT/
+PT07Y - Is it a tree			DSDS, DFS		https://www.spoj.com/problems/PT07Y/
+PT07Z - Longest path in a tree		BFS			https://www.spoj.com/problems/PT07Z/	
 ADDREV - Adding Reversed Numbers				https://www.spoj.com/problems/ADDREV/
 AGGRCOW - Aggressive cows					https://www.spoj.com/problems/AGGRCOW/
 ACODE - Alphacode						https://www.spoj.com/problems/ACODE/
@@ -34,8 +35,9 @@ ONP - Transform the Expression					https://www.spoj.com/problems/ONP/
 PALIN - The Next Palindrome					https://www.spoj.com/problems/PALIN/
 PRIME1 - Prime Generator					https://www.spoj.com/problems/PRIME1/
 SAMER08F - Feynman						https://www.spoj.com/problems/SAMER08F/
-STPAR - Street Parade				Stack		https://www.spoj.com/problems/STPAR/
+STPAR - Street Parade			Stack			https://www.spoj.com/problems/STPAR/
 TOANDFRO - To and Fro						https://www.spoj.com/problems/TOANDFRO/
 WILLITST - Will it ever stop					https://www.spoj.com/problems/WILLITST/
-BYTESM2 - Philosophers Stone			DP		https://www.spoj.com/problems/BYTESM2/
-Sums In Triangle				DP		https://www.codechef.com/problems/SUMTRIAN
+BYTESM2 - Philosophers Stone		DP			https://www.spoj.com/problems/BYTESM2/
+Sums In Triangle			DP			https://www.codechef.com/problems/SUMTRIAN
+Chef and Cartesian			BS,BM, Geometry		https://www.codechef.com/problems/CLPNT
